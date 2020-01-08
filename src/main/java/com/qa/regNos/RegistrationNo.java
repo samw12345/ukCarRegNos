@@ -1,13 +1,18 @@
 package com.qa.regNos;
 
 public class RegistrationNo {
-    int returnsSeptemberIdentifierFromMarchBeingPassed(int marchNumber){
-        if(marchNumber == 02){
-            int septemberNumber;
-            return septemberNumber = 52;
+
+    public int returnsFollowingYearMarchIdentifierFromSeptemberBeingPassed(int septemberNumber) {
+        if(septemberNumber == 52){
+            int marchNumber;
+            return marchNumber = 03;
         }
         else{
-            return marchNumber;
+            return septemberNumber;
         }
+    }
+
+    public int returnsSeptemberIdentifierFromMarchBeingPassed(int marchNumber) {
+        return marchNumber;
     }
 }

@@ -42,7 +42,23 @@
       <recent name="com.qa.regNos" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.RegistrationNoTest.test_returns_following_year_march_identifier_from_september_being_passed">
+    <configuration name="RegistrationNoTest.test_returns_following_year_march_identifier_from_september_being_passed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ukCarRegNos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.regNos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.regNos" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.regNos.RegistrationNoTest" />
+      <option name="METHOD_NAME" value="test_returns_following_year_march_identifier_from_september_being_passed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RegistrationNoTest.test_returns_september_identifier_from_march_being_passed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ukCarRegNos" />
       <extension name="coverage">
@@ -61,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RegistrationNoTest.test_returns_following_year_march_identifier_from_september_being_passed" />
         <item itemvalue="JUnit.RegistrationNoTest.test_returns_september_identifier_from_march_being_passed" />
       </list>
     </recent_temporary>
@@ -100,21 +117,26 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="374" y="274" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578489763611" />
-    <state width="1220" height="263" key="GridCell.Tab.0.bottom" timestamp="1578490014493">
+    <state width="1220" height="263" key="GridCell.Tab.0.bottom" timestamp="1578491228488">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1220" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578490014493" />
-    <state width="1220" height="263" key="GridCell.Tab.0.center" timestamp="1578490014493">
+    <state width="1220" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578491228488" />
+    <state width="1220" height="263" key="GridCell.Tab.0.center" timestamp="1578491228487">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1220" height="263" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578490014493" />
-    <state width="1220" height="263" key="GridCell.Tab.0.left" timestamp="1578490014493">
+    <state width="1220" height="263" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578491228487" />
+    <state width="1220" height="263" key="GridCell.Tab.0.left" timestamp="1578491228487">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1220" height="263" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578490014493" />
-    <state width="1220" height="263" key="GridCell.Tab.0.right" timestamp="1578490014493">
+    <state width="1220" height="263" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578491228487" />
+    <state width="1220" height="263" key="GridCell.Tab.0.right" timestamp="1578491228488">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1220" height="263" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578490014493" />
+    <state width="1220" height="263" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578491228488" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ukCarRegNos$RegistrationNoTest_test_returns_following_year_march_identifier_from_september_being_passed.ic" NAME="RegistrationNoTest.test_returns_following_year_march_identifier_from_september_being_passed Coverage Results" MODIFIED="1578491185911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.qa.regNos.*</FILTER>
+    </SUITE>
   </component>
 </project>

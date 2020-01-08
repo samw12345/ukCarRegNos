@@ -20,4 +20,19 @@ public class RegistrationNoTest {
         //assert
         assertEquals(septemberNumber, resultNumber);
     }
+
+    @Test
+    public void test_returns_following_year_march_identifier_from_september_being_passed(){
+        //arrange
+        int septemberNumber = 52;
+        int marchNumber = 03;
+
+        RegistrationNo cut = new RegistrationNo();
+
+        //act
+        int resultNumber = cut.returnsFollowingYearMarchIdentifierFromSeptemberBeingPassed(septemberNumber);
+
+        //assert
+        assertEquals(marchNumber, resultNumber);
+    }
 }
